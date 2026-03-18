@@ -2,5 +2,9 @@
   "contentVersion": 3,
   "assetUrl": "https://github.com/aitorsansal/NihongoNoPractisePublicFiles/releases/latest/download/content_pack.zip",
   "sha256": "7E2D177F9EBC049DADE434BB8B5095965518FE1C484A7F6487A2EF962652DF5A",
-  "minimumAppVersion": "0.9"
+  "minimumAppVersion": "0.9",
+  "changeLog":{
+    "es":"changelog de prueba",
+    "en":"test changelog"
+  }
 }
