@@ -2,7 +2,7 @@
   "contentVersion": 3,
   "assetUrl": "https://github.com/aitorsansal/NihongoNoPractisePublicFiles/releases/latest/download/content_pack.zip",
   "sha256": "7E2D177F9EBC049DADE434BB8B5095965518FE1C484A7F6487A2EF962652DF5A",
-  "minimumAppVersion": "0.9",
+  "minimumAppVersion": "0.8",
   "changeLog":{
     "es":"-Añadidas nuevas funcionalidades\n-Nuevo método de mezlclar preguntas\n-Lecciones de gramática 26 a 29\n-Lecciones de vocabulario 26 a 50",
     "en":"test changelog"
