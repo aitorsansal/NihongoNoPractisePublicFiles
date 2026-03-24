@@ -2,8 +2,8 @@
   "contentVersion": 3,
   "assetUrl": "https://github.com/aitorsansal/NihongoNoPractisePublicFiles/releases/latest/download/content_pack.zip",
   "sha256": "7E2D177F9EBC049DADE434BB8B5095965518FE1C484A7F6487A2EF962652DF5A",
-  "minimumAppVersion": "0.9.1",
-  "currentAppVersion":"0.9",
+  "minimumAppVersion": "0.9",
+  "currentAppVersion":"0.9.1",
   "changeLog":{
     "es":"• 23 nuevas lecciones de Vocabulario añadidas \n• 23 nuevas lecciones de Gramática añadidas \n• Traducciones actualizadas de español latinoamericano a español de España",
     "en":"• Added 23 new Vocabulary lessons \n• Added 23 new Grammar lessons \n• Translations updated from Latin American Spanish to Spain"
