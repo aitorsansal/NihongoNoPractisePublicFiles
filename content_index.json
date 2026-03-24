@@ -5,7 +5,7 @@
   "minimumAppVersion": "0.9.1",
   "currentAppVersion":"0.9",
   "changeLog":{
-    "es":"  • 23 nuevas lecciones de Vocabulario añadidas \n• 22 nuevas lecciones de Gramática añadidas \n Traducciones actualizadas de español latinoamericano a español de España",
-    "en":"  • Added 23 new Vocabulary lessons \n• Added 22 new Grammar lessons \n• Translations updated from Latin American Spanish to Spain"
+    "es":"• 23 nuevas lecciones de Vocabulario añadidas \n• 23 nuevas lecciones de Gramática añadidas \n• Traducciones actualizadas de español latinoamericano a español de España",
+    "en":"• Added 23 new Vocabulary lessons \n• Added 23 new Grammar lessons \n• Translations updated from Latin American Spanish to Spain"
   }
 }
