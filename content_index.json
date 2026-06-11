@@ -2,8 +2,8 @@
   "contentVersion": 3,
   "assetUrl": "https://github.com/aitorsansal/NihongoNoPractisePublicFiles/releases/latest/download/content_pack.zip",
   "sha256": "7E2D177F9EBC049DADE434BB8B5095965518FE1C484A7F6487A2EF962652DF5A",
-  "minimumAppVersion": "0.9.6",
-  "currentAppVersion":"0.9.6",
+  "minimumAppVersion": "1.9.6",
+  "currentAppVersion":"1.9.6",
   "changeLog":{
     "es": "• Nuevas preguntas de lectura de Kanji N4 y N5 con frases de ejemplo\n• Pantalla de carga mejorada con barra de progreso\n• Informes de errores con Sentry\n• Correcciones de errores",
     "en": "• New N4 and N5 kanji reading questions with example sentences\n• Improved loading screen with progress bar\n• Sentry crash reporting\n• Bug fixes"
