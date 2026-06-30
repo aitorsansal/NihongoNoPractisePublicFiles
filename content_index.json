@@ -2,8 +2,8 @@
   "contentVersion": 3,
   "assetUrl": "https://github.com/aitorsansal/NihongoNoPractisePublicFiles/releases/latest/download/content_pack.zip",
   "sha256": "7E2D177F9EBC049DADE434BB8B5095965518FE1C484A7F6487A2EF962652DF5A",
-  "minimumAppVersion": "0.9.5",
-  "currentAppVersion":"0.9.5",
+  "minimumAppVersion": "1.0",
+  "currentAppVersion":"1.0",
   "changeLog":{
     "es": "• Primer lanzamiento público\n• Incorporación guiada en 5 pasos\n• Objetivo diario con rachas y escudos\n• Cuestionarios reanudables y revisión de respuestas\n• Explicaciones de todos los kanji N5 y N4\n• Temas claro y oscuro con colores tradicionales japoneses\n• Voz japonesa y vibración háptica\n• Pestañas inferiores y exportación/importación de datos\n• Correcciones en vocabulario, gramática y kanji",
     "en": "• First public release\n• Guided 5-step onboarding\n• Daily goal with streak counter and freezes\n• Resumable quizzes and post-quiz answer review\n• Kanji explanations for every N5 and N4 lesson\n• Light and dark themes with traditional Japanese colours\n• Japanese text-to-speech and haptic feedback\n• Bottom-tab navigation and data export/import\n• Many content fixes across vocabulary, grammar and kanji"
